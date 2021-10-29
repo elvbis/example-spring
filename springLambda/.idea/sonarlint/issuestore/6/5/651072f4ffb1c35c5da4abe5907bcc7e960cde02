@@ -1,0 +1,16 @@
+
+O
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8÷Ô´ÌÌ/
+O
+java:S3631"/Use "Arrays.stream" instead of "Arrays.asList".(â›ëÜüÿÿÿÿ8ÁÛÀÌÌ/
+L
+java:S1905",Remove this unnecessary cast to "ArrayList".(â›ëÜüÿÿÿÿ8µÉÌÌ/
+K
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ç•ºÌÌ/
+†
+java:S1598"åThis file "Main.java" should be located in "main\java\elvbis\example\main" directory, not in "D:\DESA\workspaces\workspace_teststore\credentials\springLambda\src\main\java\elvbis.example.main"(Do not use dots in directory names).(ÚÇ“ÿÿÿÿÿ8÷Ô´ÌÌ/
+L
+java:S1612",Replace this lambda with a method reference.(â›ëÜüÿÿÿÿ8µÉÌÌ/
+L
+java:S1612",Replace this lambda with a method reference.(ÿôæ¯ûÿÿÿÿ8¨ÌÌÌ/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÿôæ¯ûÿÿÿÿ8¨ÌÌÌ/
